@@ -141,6 +141,7 @@ static void sendbreak(const Arg *);
 
 /* config.h for applying patches and the configuration. */
 #include "config.h"
+#include "gruvbox-dark.h"
 
 static void execsh(void);
 static void stty(void);
